@@ -47,6 +47,7 @@ ___
 
 [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
 
+[computation diagrams](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
 
 ___
 ___
