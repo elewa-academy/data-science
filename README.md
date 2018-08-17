@@ -5,41 +5,6 @@
 
 > "Work that takes more programming skills than most statisticians have, and more statistics skills than a programmer has." - [kdnuggets](https://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html)
 
-
-___
-
-## Project
-
-
-
-__Project 1:__
-
-Part 1:
-1. Split into groups.  
-2. I'll give each group a small set of data
-3. Compute the mean & std of the data I give you by hand.
-4. Estimate the mean and std of my complete data set.
-
-Part 2: 
-1. Share your data sets with all the groups.
-2. Using everyone's data, do what you did in part 1.
-
-
-__Project 2:__  
-Create your own basic std module, inspired by the JavaScript module in this repo.
-
-
-Chose ONE dimension of this data-set of [near-earth objects](https://data.nasa.gov/resource/2vr3-k9wn.json) to estimate how safe we really are.  To do this you will:  
-1. Question the data.
-2. Determine which single dimension of data is most relevant to this question.
-3. Establish safety thresholds: 
-    * ie. Is 1000 objects within 1000 miles a meaningful danger threshold?
-4. Clean the dataset down to only that dimension.
-5. Do basic pre-analysis data visualization.
-6. Run the cleaned data set through your std module.
-7. Try to make an inference about the total population of near-earth objects based on your measurements.
-8. Present your findings to each other, including your recommended actions based on your conclusions.
-
 ___
 
 ## Resources
@@ -47,20 +12,48 @@ ___
 General:
 * [4 pillars of DS](https://www.innoarchitech.com/what-is-data-science-does-data-scientist-do/)
 * [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
-* [computation diagram](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
+* [A model of computation](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
+* [random numbers](https://www.random.org) - highly under-rated
+
+
+Off-DataCamp dev workflow:
+* [Working in terminal (for unix)](https://www.rithmschool.com/courses/terminal)
+  * [Cmder (unix emulator for windows)](http://cmder.net)
+* [Git](https://elewa-academy.github.io/Precourse/5-next-steps/git.html): [Study this video](https://www.youtube.com/watch?v=1ffBJ4sVUb4), [practice here](https://learngitbranching.js.org)
+  * For saving and versioning your work
+* [GitHub](https://elewa-academy.github.io/Precourse/5-next-steps/git-github.html) - for sharing and collaborating
+  * [cloning, pushing & pulling](https://github.com/elewa-academy/using-starter-repos)
+* Visual Studio Code: [Download](https://visualstudio.microsoft.com/vs/), [Tutorial](https://learngitbranching.js.org)
+* [Installing python](https://wiki.python.org/moin/BeginnersGuide/Download)
+* [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+
+Practice:
+* [Awesome JSON data sets](https://github.com/jdorfman/awesome-json-datasets)
+
 
 Analysis & Inference:
 * [common distributions](./common-distributions.pdf)
+* [parametric vs non-parametric](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
 
 Software Design:
+* [learning to develop](https://github.com/elewa-academy/effective-learning)  
 * [functional programming?](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [functional programming for DS](https://vimeo.com/116151995)
 * [unit testing](https://medium.com/@MohammedS/beyond-data-science-unit-testing-bb537af38426)
 * [design, testing, logging](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
 * [testing & logging (advanced)](https://towardsdatascience.com/unit-testing-and-logging-for-data-science-d7fb8fd5d217)
 
-Data Science risks & weaknesses:
+Data Science perspectives:
 * [type 1 & type 2 errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+* [common mistakes](https://www.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html)
+* Frequentist vs Baysian interpretations:
+  * [for dummies](https://www.dummies.com/education/science/biology/two-views-of-probability/)
+  * [xkcd](https://xkcd.com/1132/), [xkcd explained](https://www.explainxkcd.com/wiki/index.php/1132:_Frequentists_vs._Bayesians), [counterpoint](https://stats.stackexchange.com/questions/43339/whats-wrong-with-xkcds-frequentists-vs-bayesians-comic)
+  * [in depth](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+  * [is statistics intuitive?](https://www.cep.ucsb.edu/papers/intuitivestat96.pdf)
+* [(over)-confidence intervals](http://allendowney.blogspot.com/2015/03/statistical-inference-is-only-mostly.html)
+
+
 
 
 ___
