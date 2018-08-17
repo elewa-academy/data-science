@@ -8,25 +8,10 @@
 
 ___
 
-## Projects
+## Project
 
 
-__Project 1:__
-
-Part 1:
-1. Split into groups.  
-2. I'll give each group a small set of data
-3. Compute the mean & std of the data I give you by hand.
-4. Estimate the mean and std of my complete data set.
-
-Part 2: 
-1. Share your data sets with all the groups.
-2. Using everyone's data, do what you did in part 1.
-
-
-__Project 2:__
-
-Create your own basic std module, inspired by the JavaScript module in this repo.
+Create your own basic std module, inspired by the JavaScript module in this repo and use it.
 
 Chose ONE dimension of this data-set of [near-earth objects](https://data.nasa.gov/resource/2vr3-k9wn.json) to estimate how safe we really are.  To do this you will:
 1. Question the data.
@@ -43,11 +28,24 @@ ___
 
 ## Resources
 
-[4 pillars](https://www.innoarchitech.com/what-is-data-science-does-data-scientist-do/)
+General:
+* [4 pillars of DS](https://www.innoarchitech.com/what-is-data-science-does-data-scientist-do/)
+* [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
+* [computation diagram](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
 
-[The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
+Analysis & Inference:
+* [common distributions](./common-distributions.pdf)
 
-[computation diagrams](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
+Software Design:
+* [functional programming?](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+* [functional programming for DS](https://vimeo.com/116151995)
+* [unit testing](https://medium.com/@MohammedS/beyond-data-science-unit-testing-bb537af38426)
+* [design, testing, logging](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
+* [testing & logging (advanced)](https://towardsdatascience.com/unit-testing-and-logging-for-data-science-d7fb8fd5d217)
+
+Data Science risks & weaknesses:
+* [type 1 & type 2 errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+
 
 ___
 ___

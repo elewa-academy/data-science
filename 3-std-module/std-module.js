@@ -79,7 +79,7 @@ function test_std(test_data, expected_std, std_function) {
 	}; 
 };
 
-module.exports = std;
+module.exports = { std, compute_mean, compute_std };
 
 
 
