@@ -16,6 +16,8 @@ General:
 * [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
 * [A model of computation](https://docs.google.com/presentation/d/1uKGPsFpv5BzRzzkvz2TaplWSx_oelMOlUHa0zg770vY/edit?usp=sharing)
 * [random numbers](https://www.random.org) - highly under-rated
+* [expectations vs reality](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
+* [python or r](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis), [python and r](https://stats.stackexchange.com/questions/238726/how-do-r-and-python-complement-each-other-in-data-science/238975)
 
 
 Off-DataCamp dev workflow:
