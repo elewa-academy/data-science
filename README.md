@@ -61,8 +61,5 @@ Data Science perspectives:
 
 ___
 ___
-### <a href="https://digityser.org" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/42180903-40227d9c-7e39-11e8-88e7-f6ea489c6aae.png" width="70" height="70"/></a>
-
-
-
+### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
 
