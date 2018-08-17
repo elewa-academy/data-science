@@ -40,6 +40,8 @@ Inference:
 * [point & interval estimation](https://analyse-it.com/docs/user-guide/101/estimation)
 * t-test: [less mathy](http://www.statisticshowto.com/probability-and-statistics/t-test/), [more mathy](http://www.sthda.com/english/wiki/t-test-formula)
 
+std from Numpy: [docs](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.std.html), [source](https://github.com/numpy/numpy/blob/v1.13.0/numpy/core/fromnumeric.py#L2912-L3027)
+
 ___
 ___
 ### <a href="https://digityser.org" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/42180903-40227d9c-7e39-11e8-88e7-f6ea489c6aae.png" width="70" height="70"/></a>

@@ -9,6 +9,8 @@ ___
 
 ## Resources
 
+[DataCamp assignments](./data-camp-assignments.md)
+
 General:
 * [4 pillars of DS](https://www.innoarchitech.com/what-is-data-science-does-data-scientist-do/)
 * [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview), 
@@ -32,7 +34,8 @@ Practice:
 
 
 Analysis & Inference:
-* [common distributions](./common-distributions.pdf)
+* [descriptive vs inferencial stats](http://statisticsbyjim.com/basics/descriptive-inferential-statistics/)
+* common distributions: [article](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/), [quick reference](./common-distributions.pdf)
 * [parametric vs non-parametric](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
 
 Software Design:
