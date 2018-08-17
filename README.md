@@ -11,18 +11,34 @@ ___
 ## Project
 
 
-Create your own basic std module, inspired by the JavaScript module in this repo and use it.
 
-Chose ONE dimension of this data-set of [near-earth objects](https://data.nasa.gov/resource/2vr3-k9wn.json) to estimate how safe we really are.  To do this you will:
+__Project 1:__
+
+Part 1:
+1. Split into groups.  
+2. I'll give each group a small set of data
+3. Compute the mean & std of the data I give you by hand.
+4. Estimate the mean and std of my complete data set.
+
+Part 2: 
+1. Share your data sets with all the groups.
+2. Using everyone's data, do what you did in part 1.
+
+
+__Project 2:__  
+Create your own basic std module, inspired by the JavaScript module in this repo.
+
+
+Chose ONE dimension of this data-set of [near-earth objects](https://data.nasa.gov/resource/2vr3-k9wn.json) to estimate how safe we really are.  To do this you will:  
 1. Question the data.
-1. Determine which single dimension of data is most relevant to this question.
-2. Establish safety thresholds: 
-  * ie. Is 1000 objects within 1000 miles a meaningful danger threshold?
-3. Clean the dataset down to only that dimension.
-4. Do basic pre-analysis data visualization.
-5. Run the cleaned data set through your std module.
-6. Try to make an inference about the total population of near-earth objects based on your measurements.
-7. Present your findings to each other, including your recommended actions based on your conclusions.
+2. Determine which single dimension of data is most relevant to this question.
+3. Establish safety thresholds: 
+    * ie. Is 1000 objects within 1000 miles a meaningful danger threshold?
+4. Clean the dataset down to only that dimension.
+5. Do basic pre-analysis data visualization.
+6. Run the cleaned data set through your std module.
+7. Try to make an inference about the total population of near-earth objects based on your measurements.
+8. Present your findings to each other, including your recommended actions based on your conclusions.
 
 ___
 
