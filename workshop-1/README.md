@@ -1,6 +1,6 @@
-# Workshop 1
+# Workshop 1: Are we safe?
 
-Create your own basic std module, inspired by the JavaScript module in this repo.
+
 
 
 Chose ONE dimension of this data-set of [near-earth objects](https://data.nasa.gov/resource/2vr3-k9wn.json) to estimate how safe we really are.  To do this you will:  
