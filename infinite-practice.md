@@ -18,7 +18,8 @@ ___
   * Based on the constraints you placed, select as a team the dataset you'd like to use.  Unless you have a constraint placed on your choice of data sets,  pick one that's not too large and that you are all interested in. 
   * Two good places to find data sets: [JSON datasets - clean, easy format](https://github.com/jdorfman/awesome-json-datasets), [Public data sets - sooo many](https://github.com/awesomedata/awesome-public-datasets).
 3. _Select a question:_
-  * Pick a clear and simple question that your team will answer with the data.  At this stage try sticking to simple yes/no questions. As your questions grow in complexity (classification, multi-dimensional predictions, or generation) the methods you will need for the analysis will be beyond the scope of this project.  
+  * Pick a clear and simple question that your team will answer with the data.  At this stage try sticking to simple yes/no questions. Also determine ahead of time clear criteria, what results qualify as a yes?  What qualifies as a no?  Laying this out ahead of time will help focus the rest of your project and make for a stronger conclusion.
+  * As your questions grow in complexity (classification, multi-dimensional predictions, or generation) the methods you will need for the analysis will be beyond the scope of this project.  
 4. _Study the data:_
   * What might be wrong with the data? How was it collected? What does each and every dimension mean, and how do they relate?  Could there be any obvious corruptions? What sort of biases or imprecisions may be present based on collection methods?
   * Run basic pre-analysis visualizations and scans.  Is the data well-formatted all the way through? What distributions do the different dimensions seem to follow? Are there any strange tails or spikes? Any missing data?
@@ -32,6 +33,7 @@ ___
   * Include simple visualizations and short, clear explanations at key points along the way.  Always tie each step back to the original question, how does this stage of the analysis move you closer to an answer?  Someone with a little bit less experience than you should be able to understand what is happening without too much effort.  
 9. _Communicate the results:_
   * Contextualize your report.  What is your audience's technical background? How much do they know about the domain you are studying?  Do they want actionable next steps? Suggestions? Or just a deeper understanding of the situation?
+  * Refer directly back to the original question and response criteria.  "I defined my question like so, the data said x, so the answer is ____"
   * Clearly state the answer to your original question, keep your conclusion simple and to the point. The purpose of data science is to find answers you would not find without the data. Do not to use the as support for your own ideas, this is not a persuasive writing class. Sometimes this will mean you have to say "we don't know".  This is much better than fudging the results or stretching the conclusions.
   * Use simple visualizations to illustrate the main findings of your analysis.  Avoid using visualizations that cover more than 2 dimensions at once.  Things like histograms, line graphs, and scatter are almost always more than enough to communicate your findings.  If you think you need more complex visualizations, try practicing your communication skills instead.
 10. _Recap the project:_

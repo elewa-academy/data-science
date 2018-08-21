@@ -26,7 +26,7 @@ _Tools_
 *  Which tool set is best for you question, team, context, and data?  Either take the time to learn the chosen tools, or find a way to do the project with tools you do know.  Working with unfamiliar tools, techniques, or libraries can not only slow down a project, but is likely to lead to mistakes.
 _Conclusions_
 * Be prepared to be wrong. or not find anything conclusive!
-* Keep your conclusions tight and simple, tied directly to what the data says. Be careful not to use the results simply as support for your own ideas.   You have to let the data answer you question. Your conclusion should serve only to consolidate what your analysis has uncovered. 
+* Keep your conclusions tight and simple, tied directly to what the data says. Be careful not to use the results simply as support for your own ideas.   You have to let the data answer you question. Your conclusion should serve only to consolidate what your analysis has uncovered.
 * Make sure the whole team knows how you understand the findings.  It's more than just a friendly thing to do, this will help you all learn and and catch mistakes that evade even the most experienced analysts.    
 _Audience_
 * Communicate to the audience you do have, not the one you'd like.  What level of understanding do they have of the domain, context, and data science?  What do they want from you; clear, actionable advice? further research questions? When in doubt, ask.   
