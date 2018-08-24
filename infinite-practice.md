@@ -4,6 +4,38 @@ Data Science is entire projects, from start to finish.  The best way to practice
 
 Instead focus on completing as many simple projects as possible (maybe even 2-3 per week!), being sure to complete each step as attentively as you can.  Try not to challenge yourself with the data sets or analysis techniques. Ideally, each step should be within your comfort zone.  This will give you the opportunity to focus on the interconnections between steps and the integrity of the entire project.  (You've got DataCamp to practice the tech skills in isolation.)
 
+---
+
+## Project Scenarios
+
+__Near Earth Objects:__
+* _Question_: Are we safe?
+* _Context_: You are part of an EU project doing research for the 2020 budget allocation.   
+* _Audience_: Representatives from the EU [Security & Citizenship](https://europa.eu/european-union/about-eu/money/expenditure_en) department.  They want to know if it's worth investing in laser guns to shoot down incoming asteroids.   
+* _Data_: https://data.nasa.gov/resource/2vr3-k9wn.json  
+
+
+__Market Positioning:__
+* _Question_: Which product will have the highest ROI?  
+* _Context_: The Baby-Boomers (people born just after WWII) are now retiring; they have money, free time, and open minds.  You and some friends from business school want to meet demand with supply by offering discreet access to premium content.  Which product should you offer?  Consider: 
+    * The cost of procurement 
+    * Risks (financial & legal)
+    * Going market rates
+    * Target market preferences
+    * ...
+* _Audience_: A shady venture capitalist. Not strong with numbers, but she knows the market and can see right through any BS.  So get to the point.
+* _Data_: https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age
+
+---
+
+## Resources
+
+* [online JSON viewer](https://jsoneditoronline.org)
+    * copy-paste JSON files into the left side, have  collapsible & readable display on the right  
+* API's: 
+    * [short intro video](https://www.youtube.com/watch?v=s7wmiS2mSXY)  
+    * Someone else giving you access to their computer's memory.  You can read, (and sometimes modify) the data they have stored.
+    * [RESTful API convention](https://restful-api-design.readthedocs.io/en/latest/urls.html) - a common way to format API calls (or URLs - the thing you type in the top of your browser).  Not all API's work this way but many do, and understanding this is a good way to begin understanding all API's
 
 ___
 
@@ -32,16 +64,10 @@ ___
     * Complete your analysis in small, understandable, and testable steps.  Save the data at each each step for repeatability and testing.  
     * Include simple visualizations and short, clear explanations at key points along the way.  Always tie each step back to the original question, how does this stage of the analysis move you closer to an answer?  Someone with a little bit less experience than you should be able to understand what is happening without too much effort.  
 9. _Communicate the results:_
-<<<<<<< HEAD
   * Contextualize your report.  What is your audience's technical background? How much do they know about the domain you are studying?  Do they want actionable next steps? Suggestions? Or just a deeper understanding of the situation?
   * Refer directly back to the original question and response criteria.  "I defined my question like so, the data said x, so the answer is ____"
   * Clearly state the answer to your original question, keep your conclusion simple and to the point. The purpose of data science is to find answers you would not find without the data. Do not to use the as support for your own ideas, this is not a persuasive writing class. Sometimes this will mean you have to say "we don't know".  This is much better than fudging the results or stretching the conclusions.
   * Use simple visualizations to illustrate the main findings of your analysis.  Avoid using visualizations that cover more than 2 dimensions at once.  Things like histograms, line graphs, and scatter are almost always more than enough to communicate your findings.  If you think you need more complex visualizations, try practicing your communication skills instead.
-=======
-    * Contextualize your report.  What is your audience's technical background? How much do they know about the domain you are studying?  Do they want actionable next steps? Suggestions? Or just a deeper understanding of the situation?
-    * Clearly state the answer to your original question, keep your conclusion simple and to the point. The purpose of data science is to find answers you would not find without the data. Do not to use the as support for your own ideas, this is not a persuasive writing class. Sometimes this will mean you have to say "we don't know".  This is much better than fudging the results or stretching the conclusions.
-    * Use simple visualizations to illustrate the main findings of your analysis.  Avoid using visualizations that cover more than 2 dimensions at once.  Things like histograms, line graphs, and scatter are almost always more than enough to communicate your findings.  If you think you need more complex visualizations, try practicing your communication skills instead.
->>>>>>> d96eea3f34e1c0baf0647a38fb7c066266e70b8d
 10. _Recap the project:_
     * What went well, what didn't?  What was hard, what wasn't? What would you do different next time?  Along with your final report, write up a second short paper about what you learned.  Include the external resources that were most helpful.  
     * This should be thorough enough that you could use it as a study reference while completing your next project.
