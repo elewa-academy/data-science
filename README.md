@@ -48,6 +48,8 @@ ___
 
 [Infinte Practice](./infinite-practice.md)
 
+[Write-up Guide](./writeup-guide.md)
+
 General:
 * [4 pillars of DS](https://www.innoarchitech.com/what-is-data-science-does-data-scientist-do/)
 * [The data science process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
