@@ -64,8 +64,14 @@ Off-DataCamp dev workflow:
   * [Cmder (unix emulator for windows)](http://cmder.net)
 * [Git](https://elewa-academy.github.io/Precourse/5-next-steps/git.html): [Study this video](https://www.youtube.com/watch?v=1ffBJ4sVUb4), [practice here](https://learngitbranching.js.org)
   * For saving and versioning your work
-* [GitHub](https://elewa-academy.github.io/Precourse/5-next-steps/git-github.html) - for sharing and collaborating
+* Git & GitHub - for sharing and collaborating
+  * [Git?](https://github.com/elewa-academy/Precourse/blob/master/5-next-steps/git.md)
+      * for practicing: "learngitbranching.js.org"
+      * for how it works behind the scenes: "THE Git video"
+      * for a quick reference: Roger Dudler's handbook
+  * [GitHub?](https://github.com/elewa-academy/Precourse/blob/master/5-next-steps/git-github.md)
   * [cloning, pushing & pulling](https://github.com/elewa-academy/using-starter-repos)
+  * [pull requests & merging](https://github.com/elewa-academy/pull-requesting-and-merging)
 * Visual Studio Code: [Download](https://visualstudio.microsoft.com/vs/), [Tutorial](https://learngitbranching.js.org)
 * [Installing python](https://wiki.python.org/moin/BeginnersGuide/Download)
 * [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
