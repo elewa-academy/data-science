@@ -58,12 +58,12 @@ ___
     * Get to know each other a bit.  What are your strong skills and your weak skills?  What roles does everyone want to practice this time around?  
 1. [Place constraints](./constraining-for-success.md):
     * Pinpoint a couple shared objectives and commit to them as a team.  These goals could be anything; a deadline, a tool to practice, a technique to implement in analysis, a data structure to use, ...
-2. _Select a data set:_
-    * Based on the constraints you placed, select as a team the dataset you'd like to use.  Unless you have a constraint placed on your choice of data sets,  pick one that's not too large and that you are all interested in. 
-    * Two good places to find data sets: [JSON datasets - clean, easy format](https://github.com/jdorfman/awesome-json-datasets), [Public data sets - sooo many](https://github.com/awesomedata/awesome-public-datasets).
-3. _Select a question:_
+2. _Select a question:_
     * Pick a clear and simple question that your team will answer with the data.  At this stage try sticking to simple yes/no questions. Also determine ahead of time clear criteria, what results qualify as a yes?  What qualifies as a no?  Laying this out ahead of time will help focus the rest of your project and make for a stronger conclusion.
-    * As your questions grow in complexity (classification, multi-dimensional predictions, or generation) the methods you will need for the analysis will be beyond the scope of this project.  
+    * As your questions grow in complexity (classification, multi-dimensional predictions, or generation) the methods you will need for the analysis will be beyond the scope of this project. 
+3. _Select a data set:_
+    * Based on the constraints you placed, select as a team the dataset you'd like to use.  Unless you have a constraint placed on your choice of data sets,  pick one that's not too large and that you are all interested in. 
+    * Two good places to find data sets: [JSON datasets - clean, easy format](https://github.com/jdorfman/awesome-json-datasets), [Public data sets - sooo many](https://github.com/awesomedata/awesome-public-datasets). 
 4. _Study the data:_
     * What might be wrong with the data? How was it collected? What does each and every dimension mean, and how do they relate?  Could there be any obvious corruptions? What sort of biases or imprecisions may be present based on collection methods?
     * Run basic pre-analysis visualizations and scans.  Is the data well-formatted all the way through? What distributions do the different dimensions seem to follow? Are there any strange tails or spikes? Any missing data?
