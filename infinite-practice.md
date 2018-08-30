@@ -26,6 +26,18 @@ __Market Positioning:__
 * _Audience_: A shady venture capitalist. Not strong with numbers, but she knows the market and can see right through any BS.  So get to the point.
 * _Data_: https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age
 
+__Becoming Famous:__  
+* _Question_: What 3 things do I change about myself to become famouse?  
+* _Context_: For your whole life you have wanted nothing more than to be famous, in your eyes the most pure indicator of fame is having a successful movie made about you.  Last week you met a fairy who has offered to change any 3 things about you.  You need to decide which 3 changes will give you the best chance at becoming famous (as measured by being the subject of a successful movie).
+* _Audience_: A fairy who will grant you 3 wishes, so long as they aren't selfish.
+* _Data_: https://github.com/fivethirtyeight/data/tree/master/biopics
+
+__The Proposal:__
+* _Question_: Will you marry me?  
+* _Context_:  You and your partner have been together for 5 years already and you're pretty sure this is the real deal.  
+* _Audience_: Your hyper-rational significant other, concerned more about the long-term stability of their marriage than your feelings.   
+* _Data_: https://github.com/fivethirtyeight/data/tree/master/marriage
+
 ---
 
 ## Resources
