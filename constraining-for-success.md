@@ -1,3 +1,5 @@
+> this is from the dev class, i'll update it soon for data science.  the general idea is already in place
+
 # Placing Constraints
 
 
