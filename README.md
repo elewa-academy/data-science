@@ -72,7 +72,8 @@ Off-DataCamp dev workflow:
   * [GitHub?](https://github.com/elewa-academy/Precourse/blob/master/5-next-steps/git-github.md)
   * [cloning, pushing & pulling](https://github.com/elewa-academy/using-starter-repos)
   * [pull requests & merging](https://github.com/elewa-academy/pull-requesting-and-merging)
-* Visual Studio Code: [Download](https://visualstudio.microsoft.com/vs/), [Tutorial](https://learngitbranching.js.org)
+  * [LearnGitBranching](https://learngitbranching.js.org)
+* Visual Studio Code: [Download](https://visualstudio.microsoft.com/vs/)
 * [Installing python](https://wiki.python.org/moin/BeginnersGuide/Download)
 * [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
